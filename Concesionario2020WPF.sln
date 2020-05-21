@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concesionario2020WPF", "Concesionario2020WPF\Concesionario2020WPF.csproj", "{CFF53EC2-FC54-47BE-8113-27065C89709B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFF53EC2-FC54-47BE-8113-27065C89709B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF53EC2-FC54-47BE-8113-27065C89709B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF53EC2-FC54-47BE-8113-27065C89709B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF53EC2-FC54-47BE-8113-27065C89709B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
