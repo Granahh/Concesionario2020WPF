@@ -1,7 +1,7 @@
 # Concesionario2020 WPF
 
 Aplicación WPF desarrollada para listar datos de una base de datos MariaDB o SQLite
-![Ejemplo](https://imgur.com/jxz0vX6)
+[Imagen](https://imgur.com/jxz0vX6)
 
 **Librerias Utilizadas:**
 
